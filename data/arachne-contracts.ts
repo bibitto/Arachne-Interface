@@ -2,7 +2,7 @@ import { ethers } from "ethers";
 import { defineChain } from "viem";
 
 export const ERC6551_REGISTRY_ADDRESS =
-  "0xC008650a9e2001AB4Ea9644ed6C3ac1bc579b84c";
+  "0x379e008009D14F499746Cb37394B63D7dA08dcB9";
 
 export const ARACHNE_REGISTRY_ADDRESS =
   "0xFE04CE8b14e7b786387ba35955b85790090b1035";
